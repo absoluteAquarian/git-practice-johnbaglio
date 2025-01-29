@@ -1,0 +1,9 @@
+Short-term learning goals:
+1) Learn how to make a website using ASP.NET
+2) Learn how to manage a database using C#
+3) Learn how to create and train a basic LLM model using C#
+
+Long-term career or academic goals:
+1) Become more versed in Java and C++
+2) Learn the Rust programming language
+3) Graduate with honors
