@@ -7,4 +7,4 @@ Fair warning it is Chinese made if thats something you're worried about.
 ---
 
 Thank you for the feedback!  
-(This file was edited from `master`.)
+(This file was edited from `merge-conflict`.)
